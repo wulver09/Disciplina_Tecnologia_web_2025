@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Página Inicial da Atividade Avaliativa 2</title>
+        <h1>Bem-vindo a Atividade Avaliativa 2 de Larissa</h1>
+    </head>
+    <body>
+        <p>Escolha uma atividade para acessar:</p>
+        <img=src="./images/IMG_20250504_212656_859.jpg"="120" height="120">
+        <a href="">Destino:./Atividade_1/Atividade1.html -> Link Atividade 1</a>
+        <a href="">Destino:./Atividade_2/Atividade2.html -> Link Atividade 2</a>
+        img=src'./images/IMG_20250504_212656_859.jpg"="120" height="120">/Atividade_2/images/-5b4df54a4de7.webp="120" height="120">
+    </body>
+</html>
